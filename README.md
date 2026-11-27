@@ -40,5 +40,5 @@ Excel Contact Tracker → Power Automate → Personalized Email → Status Updat
 - Application status tracking
 - Error handling
 
-Workflow: ![Alt Text] (https://github.com/prateek27w/Power-Automate-Project/blob/main/Power_Automate_Bulk_Email.png)
+Workflow: ![Screenshot](https://github.com/prateek27w/Power-Automate-Project/blob/main/Power_Automate_Bulk_Email.png)
 
