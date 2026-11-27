@@ -40,6 +40,5 @@ Excel Contact Tracker → Power Automate → Personalized Email → Status Updat
 - Application status tracking
 - Error handling
 
-Workflow screenshots: [Add screenshots]
+Workflow:
 
-Flow package: [Add sanitized package link]
